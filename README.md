@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Keegan Ringnalda 👋
 
-<!--
-**Amras2322/Amras2322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity student at Oklahoma Wesleyan University learning threat detection, incident response, and security operations.
 
-Here are some ideas to get you started:
+## 🛠️ What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Security Tools**: Splunk, Wireshark, Nmap, Metasploit, Burp Suite
+- **Languages**: Python, Bash, PowerShell, SQL
+- **Frameworks**: NIST Cybersecurity Framework, MITRE ATT&CK, OWASP Top 10
+
+## 🚀 What I'm Working On
+
+- Documenting security labs and CTF challenges
+- Building a home lab for penetration testing practice
+
+## 📫 Let's Connect
+
+- LinkedIn: [My Profile](https://www.linkedin.com/in/keegan-ringnalda-4a51a6297/)
+- Email: kringnalda@duck.com
