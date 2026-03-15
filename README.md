@@ -12,6 +12,7 @@ I'm a cybersecurity student at Oklahoma Wesleyan University learning threat dete
 
 - Documenting security labs and CTF challenges
 - Building a home lab for penetration testing practice
+- Automating tasks (work-related and personal) with python
 
 ## 📫 Let's Connect
 
